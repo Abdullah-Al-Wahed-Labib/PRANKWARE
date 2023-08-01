@@ -7,7 +7,7 @@ A malware to destroy a Windows PC.
 
 ⚠️ Disclaimer ⚠️
 =================
-***The creator & the contributors of this repository or this project won't be liable under any circumstances for any of your criminal incidents or illegal occurances caused by this repository or this project or any other part of it. None except the attacker will only be liable for any illegal occurances. We do not encourage anyone to cause any harm to any systems or authorities. Please refrain from causing harm or performing any risky experiments on such a system that you don't possess the permission to do so. You need to perform all the experiments using this repository or this project at your very own risk. The repsitory and this project is for educational and experimental purposes only !!***
+***The creator & the contributors of this repository or this project won't be liable under any circumstances for any of your criminal incidents or illegal occurances caused by this repository or this project or any other part of it. None except the attacker will only be liable for any illegal occurances. We do not encourage anyone to cause any harm to any systems or authorities. Please refrain from causing harm or performing any risky experiments on such a system that you don't possess the permission to do so. You need to perform all the experiments using this repository or this project at your very own risk. The repository and this project is for educational and experimental purposes only !!***
 
 
 ▶️ To get started ◀️
