@@ -2,7 +2,7 @@
 A malware to destroy a Windows PC.
 
 
-***>> PLEASE NOTE : This batchscript may cause serious harms on the system. (e.g. bootloop, disk-partition damage, boot-data removal, permanent data loss etc.)***
+***>> PLEASE NOTE : This malware may cause serious harms on the system. (e.g. bootloop, disk-partition damage, boot-data removal, permanent data loss etc.)***
 
 
 ⚠️ Disclaimer ⚠️
