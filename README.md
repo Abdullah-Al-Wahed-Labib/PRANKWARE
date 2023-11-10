@@ -12,5 +12,5 @@ A malware to destroy a Windows PC.
 
 ▶️ To get started ◀️
 =====================
- > Please head over to the release section. All the instructions have been given there.
+**Please head over to the [release section](https://github.com/Abdullah-Al-Wahed-Labib/PRANKWARE/releases/tag/PRANKWARE---%3EV1). All the instructions have been given there.**
 
